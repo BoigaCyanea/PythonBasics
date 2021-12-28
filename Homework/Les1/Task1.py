@@ -1,3 +1,4 @@
+
 name = input("What is your name? ")
 age = input(f"How old are you, {name} ? ")
 print(f"Hello, {name}! Your age is {age}, right?")

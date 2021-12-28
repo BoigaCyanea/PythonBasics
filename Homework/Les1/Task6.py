@@ -1,3 +1,4 @@
+
 while True:
     days = 1
     start_km = float(input("Стартовый результат: "))
