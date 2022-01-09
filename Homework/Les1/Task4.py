@@ -1,3 +1,4 @@
+
 num_init = int(input("Enter an integer: "))
 gr_dig = 0
 num = num_init

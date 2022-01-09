@@ -1,3 +1,4 @@
+
 n = input("Enter the integer number: ")
 
 while n < '0':

@@ -1,3 +1,4 @@
+
 revenue = float(input("Введите значение выручки ( в криптокотятах) - "))
 costs = float(input("Введите значение издержек (в криптокотятах) - "))
 result = revenue - costs
